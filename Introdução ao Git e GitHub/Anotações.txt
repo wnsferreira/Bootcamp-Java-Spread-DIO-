@@ -1,0 +1,9 @@
+
+Documentação Git
+https://git-scm.com/book/en/v2
+
+
+
+CONFLITO
+
+Conflito de Merge - Para solucionar deve-se fazer um "pull" do arquivo mais atualizado, que está no servidor, e fazer as alterações manualmente.
