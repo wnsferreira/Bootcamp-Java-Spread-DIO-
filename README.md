@@ -1,3 +1,3 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# BootCamp Spread da DIO
 
-Repositório criado para o desafio de Projeto.
+## Aqui contém códigos que foram desenvolvidos durante o bootcamp e alguns que estou estudando por fora (Pasta EstudoAParte).
